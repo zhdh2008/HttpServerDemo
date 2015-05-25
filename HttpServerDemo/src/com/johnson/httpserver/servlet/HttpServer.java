@@ -1,4 +1,4 @@
-package com.hik.expressway.servlet;
+package com.johnson.httpserver.servlet;
 
 import java.io.IOException;
 import java.util.Enumeration;

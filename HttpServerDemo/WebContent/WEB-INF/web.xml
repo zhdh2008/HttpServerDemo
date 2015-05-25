@@ -11,7 +11,7 @@
   </welcome-file-list>
   <servlet>
     <servlet-name>HttpServer</servlet-name>
-    <servlet-class>com.hik.expressway.servlet.HttpServer
+    <servlet-class>com.johnson.httpserver.servlet.HttpServer
   </servlet-class>
   </servlet>
   <servlet-mapping>
